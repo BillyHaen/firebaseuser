@@ -1,0 +1,22 @@
+{
+  "name": "Om-billy-Test",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "firebase": "7.2.3",
+    "vue": "^3.0.0-rc.1",
+    "vue-tailwind": "^1.2.8",
+    "vuetify": "^2.3.12"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.0-rc.1",
+    "deepmerge": "^4.2.2",
+    "sass": "^1.26.11",
+    "sass-loader": "^10.0.2",
+    "tailwindcss": "^1.8.10",
+    "vite": "^1.0.0-rc.1"
+  }
+}
